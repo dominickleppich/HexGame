@@ -1,0 +1,43 @@
+Valid parameters:
+	-output
+	-error
+	-debug
+	-guidebug
+	-guitext
+	-gui
+	-multigui
+	-simplegui
+	-multigames
+	-cheats
+	-lang ...
+	-sound
+	-voice
+	-red <NAME>
+	-blue <NAME>
+	-redplayer <TYPE> [HUMAN, NETWORK, COMPUTER_RANDOMAI, COMPUTER_EASYAI]
+	-blueplayer <TYPE> [HUMAN, NETWORK, COMPUTER_RANDOMAI, COMPUTER_EASYAI]
+	-begin [red, blue]
+	-x X_SIZE
+	-y Y_SIZE
+
+Gui commands:
+	exit 					Exit game
+	whois					Who's turn is it?
+	debug					Enable debug
+	nodebug					Disable debug
+	help					Print help
+
+Cheats:
+	rage					Throw rage exception
+	lightning				Highlight borders
+	insult					Insult the other player
+	yourmama				Tell Your mama jokes about the other player
+	peace					Stop flaming the other player
+	ecstasy					Tokens change their color in rainbow mode
+	betterbeclean			Stop rainbow color mode
+	matrix					Enable the matrix
+	backtoreality			Disable the matrix
+	bonus					add a bonus field to the game
+	hole					remove a field from the game
+	blackhole				add a blackhole to the game
+	fart					Make a fart ^^
